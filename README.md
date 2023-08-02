@@ -1,9 +1,9 @@
-*AH - Empowering Buyers and Sellers
-AH Logo
+#AH - Empowering Buyers and Sellers
 
-AH is a user-friendly web application that serves as a marketplace, connecting buyers and sellers in a seamless online shopping experience. This project utilizes HTML, CSS, JavaScript, and PHP to create an interactive and secure platform for buying and selling products and services.
 
-Table of Contents
+#AH is a user-friendly web application that serves as a marketplace, connecting buyers and sellers in a seamless online shopping experience. This project utilizes HTML, CSS, JavaScript, and PHP to create an interactive and secure platform for buying and selling products and services.
+
+#Table of Contents
 Introduction
 Features
 Installation
@@ -11,10 +11,10 @@ Usage
 Technologies Used
 Contributing
 License
-Introduction
+#Introduction
 In today's digital age, online marketplaces play a crucial role in bringing buyers and sellers together. AH aims to simplify the process of buying and selling products and services by providing a user-friendly and secure platform. The application facilitates direct communication between buyers and sellers, enabling them to engage in smooth transactions.
 
-Features
+$Features
 Buyer Features
 
 Browse products and services by categories
@@ -60,7 +60,7 @@ Sellers can manage their storefronts, update product information, and respond to
 
 Buyers can send messages to sellers to inquire about products or negotiate prices.
 
-Technologies Used
+#Technologies Used
 The AH web application is built using the following technologies:
 
 HTML5 and CSS3 for the user interface
@@ -70,7 +70,7 @@ MySQL as the relational database management system
 Contributing
 Contributions to AH are welcome! If you encounter any issues or have ideas for improvements, please submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
 
-License
+#License
 This project is licensed under the MIT License.
 
 We hope this README file helps you understand the AH web application project and encourages contributors to join the development efforts. Feel free to customize it further based on your specific project needs and guidelines. Good luck with your project!
