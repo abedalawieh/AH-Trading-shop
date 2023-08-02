@@ -1,4 +1,4 @@
-AH - Empowering Buyers and Sellers
+*AH - Empowering Buyers and Sellers
 AH Logo
 
 AH is a user-friendly web application that serves as a marketplace, connecting buyers and sellers in a seamless online shopping experience. This project utilizes HTML, CSS, JavaScript, and PHP to create an interactive and secure platform for buying and selling products and services.
